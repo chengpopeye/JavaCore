@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00※※※Java说(基础)-v1※※※/00※※※Java说(基础)-v1※※※.iml" filepath="$PROJECT_DIR$/00※※※Java说(基础)-v1※※※/00※※※Java说(基础)-v1※※※.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01Java说(基础)/01Java说(基础).iml" filepath="$PROJECT_DIR$/01Java说(基础)/01Java说(基础).iml" />
+      <module fileurl="file://$PROJECT_DIR$/01※※※Java说(进阶)-v1※※※/01※※※Java说(进阶)-v1※※※.iml" filepath="$PROJECT_DIR$/01※※※Java说(进阶)-v1※※※/01※※※Java说(进阶)-v1※※※.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Java说(进阶)-API02/05Java说(进阶)-API02.iml" filepath="$PROJECT_DIR$/05Java说(进阶)-API02/05Java说(进阶)-API02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Java说(进阶)-集合/06Java说(进阶)-集合.iml" filepath="$PROJECT_DIR$/06Java说(进阶)-集合/06Java说(进阶)-集合.iml" />
+    </modules>
+  </component>
+</project>
